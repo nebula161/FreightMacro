@@ -1,0 +1,814 @@
+{
+    "nodes": [
+      {
+        "name": "Blue Cove",
+        "id": "blue-cove",
+        "type": "port",
+        "x": -9086,
+        "z": -544
+      },
+      {
+        "name": "Icenia",
+        "id": "spaceneedle",
+        "type": "port",
+        "x": -3709,
+        "z": -4382
+      },
+      {
+        "name": "Bay of Icenia",
+        "id": "icenia-bay",
+        "type": "node",
+        "x": -2733,
+        "z": -4290
+      },
+      {
+        "name": "Utopia Strait",
+        "id": "utopia-strait-north",
+        "type": "node",
+        "x": -2579,
+        "z": -3611
+      },
+      {
+        "name": "Utopia Strait",
+        "id": "utopia-strait",
+        "type": "node",
+        "x": -2590,
+        "z": -3204
+      },
+      {
+        "name": "Utopia Strait South",
+        "id": "utopia-strait-south",
+        "type": "node",
+        "x": -2347,
+        "z": -2947
+      },
+      {
+        "name": "Pavia City",
+        "id": "pavia-city",
+        "type": "port",
+        "x": 486,
+        "z": -2846
+      },
+      {
+        "name": "Temporal Isles",
+        "id": "temporal-isles",
+        "type": "port",
+        "x": -1984,
+        "z": -5446
+      },
+      {
+        "name": "Strait of Selsey",
+        "id": "selsey-strait",
+        "type": "node",
+        "x": -2242,
+        "z": -5056
+      },
+      {
+        "name": "Temporal Ocean",
+        "id": "temporal-ocean",
+        "type": "node",
+        "x": -3306,
+        "z": -5902
+      },
+      {
+        "name": "Bloom Ocean",
+        "id": "bloom-ocean",
+        "type": "node",
+        "x": -3948,
+        "z": -6196
+      },
+      {
+        "name": "Bloom",
+        "id": "bloom-city",
+        "type": "port",
+        "x": -4114,
+        "z": -5864
+      },
+      {
+        "name": "Pen Island",
+        "id": "penis-land",
+        "type": "port",
+        "x": -3277,
+        "z": -6603
+      },
+      {
+        "name": "Warmian Strait",
+        "id": "warmian-strait",
+        "type": "node",
+        "x": -1804,
+        "z": -2400
+      },
+      {
+        "name": "Cane Cove",
+        "id": "cane-corp-cove",
+        "type": "node",
+        "x": -2899,
+        "z": -943
+      },
+      {
+        "name": "Cane Corp",
+        "id": "cane-corp",
+        "type": "port",
+        "x": -2855,
+        "z": -814
+      },
+      {
+        "name": "Memorial River East",
+        "id": "memorial-river-route-east",
+        "type": "node",
+        "x": -3151,
+        "z": -642
+      },
+      {
+        "id": "memorial-river-route-0",
+        "type": "river",
+        "x": -3182,
+        "z": -645
+      },
+      {
+        "id": "memorial-river-route-1",
+        "type": "river",
+        "x": -3215,
+        "z": -609
+      },
+      {
+        "id": "memorial-river-route-2",
+        "type": "river",
+        "x": -3249,
+        "z": -637
+      },
+      {
+        "id": "memorial-river-route-3",
+        "type": "river",
+        "x": -3273,
+        "z": -672
+      },
+      {
+        "id": "memorial-river-route-4",
+        "type": "river",
+        "x": -3328,
+        "z": -602
+      },
+      {
+        "id": "memorial-river-route-5",
+        "type": "river",
+        "x": -3374,
+        "z": -571
+      },
+      {
+        "id": "memorial-river-route-6",
+        "type": "river",
+        "x": -3399,
+        "z": -567
+      },
+      {
+        "id": "memorial-river-route-7",
+        "type": "river",
+        "x": -3431,
+        "z": -589
+      },
+      {
+        "id": "memorial-river-route-8",
+        "type": "river",
+        "x": -3503,
+        "z": -602
+      },
+      {
+        "id": "memorial-river-route-9",
+        "type": "river",
+        "x": -3600,
+        "z": -545
+      },
+      {
+        "id": "memorial-river-route-10",
+        "type": "river",
+        "x": -3593,
+        "z": -466
+      },
+      {
+        "id": "memorial-river-route-11",
+        "type": "river",
+        "x": -3615,
+        "z": -442
+      },
+      {
+        "id": "memorial-river-route-12",
+        "type": "river",
+        "x": -3662,
+        "z": -482
+      },
+      {
+        "id": "memorial-river-route-13",
+        "type": "river",
+        "x": -3669,
+        "z": -582
+      },
+      {
+        "id": "memorial-river-route-14",
+        "type": "river",
+        "x": -3974,
+        "z": -913
+      },
+      {
+        "id": "memorial-river-route-15",
+        "type": "river",
+        "x": -4100,
+        "z": -810
+      },
+      {
+        "id": "memorial-river-route-16",
+        "type": "river",
+        "x": -4143,
+        "z": -771
+      },
+      {
+        "id": "memorial-river-route-17",
+        "type": "river",
+        "x": -4200,
+        "z": -748
+      },
+      {
+        "id": "memorial-river-route-18",
+        "type": "river",
+        "x": -4261,
+        "z": -676
+      },
+      {
+        "id": "memorial-river-route-19",
+        "type": "river",
+        "x": -4311,
+        "z": -675
+      },
+      {
+        "id": "memorial-river-route-20",
+        "type": "river",
+        "x": -4294,
+        "z": -636
+      },
+      {
+        "id": "memorial-river-route-21",
+        "type": "river",
+        "x": -4237,
+        "z": -596
+      },
+      {
+        "id": "memorial-river-route-22",
+        "type": "river",
+        "x": -4185,
+        "z": -569
+      },
+      {
+        "id": "memorial-river-route-23",
+        "type": "river",
+        "x": -4142,
+        "z": -575
+      },
+      {
+        "id": "memorial-river-route-24",
+        "type": "river",
+        "x": -4119,
+        "z": -547
+      },
+      {
+        "id": "memorial-river-route-25",
+        "type": "river",
+        "x": -4089,
+        "z": -553
+      },
+      {
+        "id": "memorial-river-route-26",
+        "type": "river",
+        "x": -4096,
+        "z": -504
+      },
+      {
+        "id": "memorial-river-route-27",
+        "type": "river",
+        "x": -4074,
+        "z": -473
+      },
+      {
+        "id": "memorial-river-route-28",
+        "type": "river",
+        "x": -4114,
+        "z": -421
+      },
+      {
+        "id": "memorial-river-route-29",
+        "type": "river",
+        "x": -4093,
+        "z": -386
+      },
+      {
+        "id": "memorial-river-route-30",
+        "type": "river",
+        "x": -4041,
+        "z": -334
+      },
+      {
+        "id": "memorial-river-route-31",
+        "type": "river",
+        "x": -4020,
+        "z": -308
+      },
+      {
+        "id": "memorial-river-route-32",
+        "type": "river",
+        "x": -4053,
+        "z": -271
+      },
+      {
+        "id": "memorial-river-route-33",
+        "type": "river",
+        "x": -4065,
+        "z": -240
+      },
+      {
+        "id": "memorial-river-route-34",
+        "type": "river",
+        "x": -4099,
+        "z": -232
+      },
+      {
+        "id": "memorial-river-route-35",
+        "type": "river",
+        "x": -4112,
+        "z": -256
+      },
+      {
+        "id": "memorial-river-route-36",
+        "type": "river",
+        "x": -4153,
+        "z": -240
+      },
+      {
+        "id": "memorial-river-route-37",
+        "type": "river",
+        "x": -4187,
+        "z": -209
+      },
+      {
+        "id": "memorial-river-route-38",
+        "type": "river",
+        "x": -4211,
+        "z": -174
+      },
+      {
+        "id": "memorial-river-route-39",
+        "type": "river",
+        "x": -4270,
+        "z": -130
+      },
+      {
+        "id": "memorial-river-route-40",
+        "type": "river",
+        "x": -4280,
+        "z": -85
+      },
+      {
+        "id": "memorial-river-route-41",
+        "type": "river",
+        "x": -4320,
+        "z": -44
+      },
+      {
+        "id": "memorial-river-route-42",
+        "type": "river",
+        "x": -4335,
+        "z": -18
+      },
+      {
+        "id": "memorial-river-route-43",
+        "type": "river",
+        "x": -4374,
+        "z": -20
+      },
+      {
+        "name": "Memorial River West",
+        "id": "memorial-river-route-west",
+        "type": "node",
+        "x": -4495,
+        "z": 22
+      },
+      {
+        "name": "Grandoran Coast",
+        "id": "grandoran-coast",
+        "type": "node",
+        "x": -6098,
+        "z": -412
+      },
+      {
+        "name": "North Grandoran Coast",
+        "id": "north-grandoran-coast",
+        "type": "node",
+        "x": -6485,
+        "z": -727
+      },
+      {
+        "name": "Icarus Portal",
+        "id": "icarus-portal",
+        "type": "node",
+        "x": -7720,
+        "z": -312
+      },
+      {
+        "name": "Blue Cove Entry",
+        "id": "blue-cove-entry",
+        "type": "node",
+        "x": -8229,
+        "z": -569
+      },
+      {
+        "id": "blue-cove-entry-2",
+        "type": "river",
+        "x": -8376,
+        "z": -555
+      },
+      {
+        "id": "blue-cove-river-0",
+        "type": "river",
+        "x": -8471,
+        "z": -422
+      },
+      {
+        "id": "blue-cove-river-1",
+        "type": "river",
+        "x": -8536,
+        "z": -480
+      },
+      {
+        "id": "blue-cove-river-2",
+        "type": "river",
+        "x": -8489,
+        "z": -597
+      },
+      {
+        "id": "blue-cove-river-3",
+        "type": "river",
+        "x": -8523,
+        "z": -637
+      },
+      {
+        "id": "blue-cove-river-4",
+        "type": "river",
+        "x": -8512,
+        "z": -678
+      },
+      {
+        "id": "blue-cove-river-5",
+        "type": "river",
+        "x": -8549,
+        "z": -711
+      },
+      {
+        "id": "blue-cove-river-6",
+        "type": "river",
+        "x": -8594,
+        "z": -709
+      },
+      {
+        "id": "blue-cove-river-7",
+        "type": "river",
+        "x": -8618,
+        "z": -726
+      },
+      {
+        "id": "blue-cove-river-8",
+        "type": "river",
+        "x": -8648,
+        "z": -717
+      },
+      {
+        "id": "blue-cove-river-9",
+        "type": "river",
+        "x": -8711,
+        "z": -824
+      },
+      {
+        "id": "blue-cove-river-10",
+        "type": "river",
+        "x": -9078,
+        "z": -716
+      },
+      {
+        "id": "blue-cove-river-11",
+        "type": "river",
+        "x": -9086,
+        "z": -544
+      }
+    ],
+    "connections": [
+      {
+        "from": "memorial-river-route-43",
+        "to": "memorial-river-route-west"
+      },
+      {
+        "from": "memorial-river-route-west",
+        "to": "grandoran-coast"
+      },
+      {
+        "from": "grandoran-coast",
+        "to": "north-grandoran-coast"
+      },
+      {
+        "from": "north-grandoran-coast",
+        "to": "icarus-portal"
+      },
+      {
+        "from": "icarus-portal",
+        "to": "blue-cove-entry"
+      },
+      {
+        "from": "spaceneedle",
+        "to": "icenia-bay"
+      },
+      {
+        "from": "icenia-bay",
+        "to": "utopia-strait-north"
+      },
+      {
+        "from": "utopia-strait-north",
+        "to": "utopia-strait"
+      },
+      {
+        "from": "utopia-strait",
+        "to": "utopia-strait-south"
+      },
+      {
+        "from": "utopia-strait-south",
+        "to": "pavia-city"
+      },
+      {
+        "from": "utopia-strait-south",
+        "to": "warmian-strait"
+      },
+      {
+        "from": "icenia-bay",
+        "to": "selsey-strait"
+      },
+      {
+        "from": "selsey-strait",
+        "to": "temporal-isles"
+      },
+      {
+        "from": "selsey-strait",
+        "to": "temporal-ocean"
+      },
+      {
+        "from": "temporal-ocean",
+        "to": "bloom-ocean"
+      },
+      {
+        "from": "bloom-ocean",
+        "to": "bloom-city"
+      },
+      {
+        "from": "bloom-ocean",
+        "to": "penis-land"
+      },
+      {
+        "from": "warmian-strait",
+        "to": "cane-corp-cove"
+      },
+      {
+        "from": "cane-corp-cove",
+        "to": "cane-corp"
+      },
+      {
+        "from": "cane-corp-cove",
+        "to": "memorial-river-route-east"
+      },
+      {
+        "from": "memorial-river-route-east",
+        "to": "memorial-river-route-0"
+      },
+      {
+        "from": "memorial-river-route-0",
+        "to": "memorial-river-route-1"
+      },
+      {
+        "from": "memorial-river-route-1",
+        "to": "memorial-river-route-2"
+      },
+      {
+        "from": "memorial-river-route-2",
+        "to": "memorial-river-route-3"
+      },
+      {
+        "from": "memorial-river-route-3",
+        "to": "memorial-river-route-4"
+      },
+      {
+        "from": "memorial-river-route-4",
+        "to": "memorial-river-route-5"
+      },
+      {
+        "from": "memorial-river-route-5",
+        "to": "memorial-river-route-6"
+      },
+      {
+        "from": "memorial-river-route-6",
+        "to": "memorial-river-route-7"
+      },
+      {
+        "from": "memorial-river-route-7",
+        "to": "memorial-river-route-8"
+      },
+      {
+        "from": "memorial-river-route-8",
+        "to": "memorial-river-route-9"
+      },
+      {
+        "from": "memorial-river-route-9",
+        "to": "memorial-river-route-10"
+      },
+      {
+        "from": "memorial-river-route-10",
+        "to": "memorial-river-route-11"
+      },
+      {
+        "from": "memorial-river-route-11",
+        "to": "memorial-river-route-12"
+      },
+      {
+        "from": "memorial-river-route-12",
+        "to": "memorial-river-route-13"
+      },
+      {
+        "from": "memorial-river-route-13",
+        "to": "memorial-river-route-14"
+      },
+      {
+        "from": "memorial-river-route-14",
+        "to": "memorial-river-route-15"
+      },
+      {
+        "from": "memorial-river-route-15",
+        "to": "memorial-river-route-16"
+      },
+      {
+        "from": "memorial-river-route-16",
+        "to": "memorial-river-route-17"
+      },
+      {
+        "from": "memorial-river-route-17",
+        "to": "memorial-river-route-18"
+      },
+      {
+        "from": "memorial-river-route-18",
+        "to": "memorial-river-route-19"
+      },
+      {
+        "from": "memorial-river-route-19",
+        "to": "memorial-river-route-20"
+      },
+      {
+        "from": "memorial-river-route-20",
+        "to": "memorial-river-route-21"
+      },
+      {
+        "from": "memorial-river-route-21",
+        "to": "memorial-river-route-22"
+      },
+      {
+        "from": "memorial-river-route-22",
+        "to": "memorial-river-route-23"
+      },
+      {
+        "from": "memorial-river-route-23",
+        "to": "memorial-river-route-24"
+      },
+      {
+        "from": "memorial-river-route-24",
+        "to": "memorial-river-route-25"
+      },
+      {
+        "from": "memorial-river-route-25",
+        "to": "memorial-river-route-26"
+      },
+      {
+        "from": "memorial-river-route-26",
+        "to": "memorial-river-route-27"
+      },
+      {
+        "from": "memorial-river-route-27",
+        "to": "memorial-river-route-28"
+      },
+      {
+        "from": "memorial-river-route-28",
+        "to": "memorial-river-route-29"
+      },
+      {
+        "from": "memorial-river-route-29",
+        "to": "memorial-river-route-30"
+      },
+      {
+        "from": "memorial-river-route-30",
+        "to": "memorial-river-route-31"
+      },
+      {
+        "from": "memorial-river-route-31",
+        "to": "memorial-river-route-32"
+      },
+      {
+        "from": "memorial-river-route-32",
+        "to": "memorial-river-route-33"
+      },
+      {
+        "from": "memorial-river-route-33",
+        "to": "memorial-river-route-34"
+      },
+      {
+        "from": "memorial-river-route-34",
+        "to": "memorial-river-route-35"
+      },
+      {
+        "from": "memorial-river-route-35",
+        "to": "memorial-river-route-36"
+      },
+      {
+        "from": "memorial-river-route-36",
+        "to": "memorial-river-route-37"
+      },
+      {
+        "from": "memorial-river-route-37",
+        "to": "memorial-river-route-38"
+      },
+      {
+        "from": "memorial-river-route-38",
+        "to": "memorial-river-route-39"
+      },
+      {
+        "from": "memorial-river-route-39",
+        "to": "memorial-river-route-40"
+      },
+      {
+        "from": "memorial-river-route-40",
+        "to": "memorial-river-route-41"
+      },
+      {
+        "from": "memorial-river-route-41",
+        "to": "memorial-river-route-42"
+      },
+      {
+        "from": "memorial-river-route-42",
+        "to": "memorial-river-route-43"
+      },
+      {
+        "from": "blue-cove-entry",
+        "to": "blue-cove-entry-2"
+      },
+      {
+        "from": "blue-cove-entry-2",
+        "to": "blue-cove-river-0"
+      },
+      {
+        "from": "blue-cove-river-0",
+        "to": "blue-cove-river-1"
+      },
+      {
+        "from": "blue-cove-river-1",
+        "to": "blue-cove-river-2"
+      },
+      {
+        "from": "blue-cove-river-2",
+        "to": "blue-cove-river-3"
+      },
+      {
+        "from": "blue-cove-river-3",
+        "to": "blue-cove-river-4"
+      },
+      {
+        "from": "blue-cove-river-4",
+        "to": "blue-cove-river-5"
+      },
+      {
+        "from": "blue-cove-river-5",
+        "to": "blue-cove-river-6"
+      },
+      {
+        "from": "blue-cove-river-6",
+        "to": "blue-cove-river-7"
+      },
+      {
+        "from": "blue-cove-river-7",
+        "to": "blue-cove-river-8"
+      },
+      {
+        "from": "blue-cove-river-8",
+        "to": "blue-cove-river-9"
+      },
+      {
+        "from": "blue-cove-river-9",
+        "to": "blue-cove-river-10"
+      },
+      {
+        "from": "blue-cove-river-10",
+        "to": "blue-cove-river-11"
+      },
+      {
+        "from": "blue-cove-river-11",
+        "to": "blue-cove"
+      }
+    ]
+  }
